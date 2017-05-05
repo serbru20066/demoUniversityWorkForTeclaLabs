@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  Nissan_iOS
+//
+//  Created by bruno on 16/02/15.
+//  Copyright (c) 2015 bruno. All rights reserved.
+//
+
+#ifndef VidoorAdmin_PrefixHeader_pch
+#define VidoorAdmin_PrefixHeader_pch
+
+#define Fuente(s) [UIFont fontWithName:@"Gotham-Book" size:s]
+#define FuenteMedium(s) [UIFont fontWithName:@"Gotham-Medium" size:s]
+#define urlBase @"http://wsbeacons.somee.com/api"
+#define urlImagenes @""
+#endif

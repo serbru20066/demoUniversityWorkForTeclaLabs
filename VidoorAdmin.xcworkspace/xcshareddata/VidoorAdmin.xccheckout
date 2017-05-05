@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C6DDFCF8-B741-4C3B-A4A3-3181ACCB926C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VidoorAdmin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E2542C3AD3CEEF6D088EABF96A00F6BCD40EC9C6</key>
+		<string>https://bitbucket.org/AlvaroManuel91/vidooradmin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VidoorAdmin.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E2542C3AD3CEEF6D088EABF96A00F6BCD40EC9C6</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/AlvaroManuel91/vidooradmin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E2542C3AD3CEEF6D088EABF96A00F6BCD40EC9C6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E2542C3AD3CEEF6D088EABF96A00F6BCD40EC9C6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>vidooradmin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
